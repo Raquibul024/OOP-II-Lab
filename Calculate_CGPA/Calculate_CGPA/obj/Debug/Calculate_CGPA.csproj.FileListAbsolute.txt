@@ -1,0 +1,10 @@
+F:\RaQuIB\3y1s\OOP-2\Calculate_CGPA\Calculate_CGPA\bin\Debug\Calculate_CGPA.exe.config
+F:\RaQuIB\3y1s\OOP-2\Calculate_CGPA\Calculate_CGPA\bin\Debug\Calculate_CGPA.exe
+F:\RaQuIB\3y1s\OOP-2\Calculate_CGPA\Calculate_CGPA\bin\Debug\Calculate_CGPA.pdb
+F:\RaQuIB\3y1s\OOP-2\Calculate_CGPA\Calculate_CGPA\obj\Debug\Calculate_CGPA.csproj.AssemblyReference.cache
+F:\RaQuIB\3y1s\OOP-2\Calculate_CGPA\Calculate_CGPA\obj\Debug\Calculate_CGPA.Form1.resources
+F:\RaQuIB\3y1s\OOP-2\Calculate_CGPA\Calculate_CGPA\obj\Debug\Calculate_CGPA.Properties.Resources.resources
+F:\RaQuIB\3y1s\OOP-2\Calculate_CGPA\Calculate_CGPA\obj\Debug\Calculate_CGPA.csproj.GenerateResource.cache
+F:\RaQuIB\3y1s\OOP-2\Calculate_CGPA\Calculate_CGPA\obj\Debug\Calculate_CGPA.csproj.CoreCompileInputs.cache
+F:\RaQuIB\3y1s\OOP-2\Calculate_CGPA\Calculate_CGPA\obj\Debug\Calculate_CGPA.exe
+F:\RaQuIB\3y1s\OOP-2\Calculate_CGPA\Calculate_CGPA\obj\Debug\Calculate_CGPA.pdb
