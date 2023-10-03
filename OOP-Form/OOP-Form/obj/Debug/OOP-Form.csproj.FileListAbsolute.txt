@@ -1,0 +1,10 @@
+F:\RaQuIB\3y1s\OOP-2\OOP-Form\OOP-Form\bin\Debug\OOP-Form.exe.config
+F:\RaQuIB\3y1s\OOP-2\OOP-Form\OOP-Form\bin\Debug\OOP-Form.exe
+F:\RaQuIB\3y1s\OOP-2\OOP-Form\OOP-Form\bin\Debug\OOP-Form.pdb
+F:\RaQuIB\3y1s\OOP-2\OOP-Form\OOP-Form\obj\Debug\OOP-Form.csproj.AssemblyReference.cache
+F:\RaQuIB\3y1s\OOP-2\OOP-Form\OOP-Form\obj\Debug\OOP_Form.Form1.resources
+F:\RaQuIB\3y1s\OOP-2\OOP-Form\OOP-Form\obj\Debug\OOP_Form.Properties.Resources.resources
+F:\RaQuIB\3y1s\OOP-2\OOP-Form\OOP-Form\obj\Debug\OOP-Form.csproj.GenerateResource.cache
+F:\RaQuIB\3y1s\OOP-2\OOP-Form\OOP-Form\obj\Debug\OOP-Form.csproj.CoreCompileInputs.cache
+F:\RaQuIB\3y1s\OOP-2\OOP-Form\OOP-Form\obj\Debug\OOP-Form.exe
+F:\RaQuIB\3y1s\OOP-2\OOP-Form\OOP-Form\obj\Debug\OOP-Form.pdb
